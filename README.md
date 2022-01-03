@@ -69,6 +69,7 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
 
 ## Section query 3
 
+
 ![image](https://user-images.githubusercontent.com/55181621/147939894-0f4f985b-33a3-4323-b839-6588a37dbc78.png)
 
 
@@ -118,6 +119,7 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
 
 ## Section Logic 3
 
+![image](https://user-images.githubusercontent.com/55181621/147954495-3a1484a1-6f1e-4c43-a8a5-616f7d445371.png)
 
 
 ## Section Logic 4

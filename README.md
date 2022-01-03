@@ -105,7 +105,19 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
          SELECT * from `pegawai` ORDER BY penghasilan DESC LIMIT 1      
 ```
 
+## Section Logic 1
+
+![image](https://user-images.githubusercontent.com/55181621/147951849-8a88eb59-14ec-4ea7-9d2d-c423e973f61f.png)
+
+## Section Logic 2
+
+
+## Section Logic 3
 
 
 
+## Section Logic 4
+
+
+## Section Logic 5
 

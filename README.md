@@ -56,7 +56,8 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
          
 ```    
         
-     - 2 [Table] (https://user-images.githubusercontent.com/55181621/147934973-2b79f74b-aa7c-461d-bcf2-22a5d7ae31dc.png)
+     - 2 [image](https://user-images.githubusercontent.com/55181621/147935238-3bda7956-ad82-431a-ad98-3d8698ebfc51.png)
+
      
          syntax query concat desc 
              

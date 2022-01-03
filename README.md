@@ -56,12 +56,12 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
          
 ```    
 # table 
-         
-         (https://user-images.githubusercontent.com/55181621/147935238-3bda7956-ad82-431a-ad98-3d8698ebfc51.png)
 
-     
-         syntax query concat desc 
-             
+![PinDetails]![image](https://user-images.githubusercontent.com/55181621/147935590-9856fb2d-cba8-456f-90e1-fe4672dec812.png)
+
+## syntax query concat desc 
+
+
          ```javascript
          SELECT CONCAT(nama_depan, nama_belakang) FROM pegawai ORDER by nama_belakang ASC ,nama_depan DESC
          

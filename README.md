@@ -1,0 +1,2 @@
+# GlobalTrendAsia---Test
+My test

@@ -61,11 +61,11 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
 
 ## syntax query 2
 
-
-         ```javascript
+```javascript
+         
          SELECT CONCAT(nama_depan, nama_belakang) FROM pegawai ORDER by nama_belakang ASC ,nama_depan DESC
          
-         ```
+```
 
 
 

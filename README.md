@@ -67,6 +67,18 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
          
 ```
 
+## Section query 3
+
+![image](https://user-images.githubusercontent.com/55181621/147939894-0f4f985b-33a3-4323-b839-6588a37dbc78.png)
+
+
+## syntax query 3
+
+```javascript
+         
+         SELECT * FROM `pegawai` WHERE (tanggal_masuk BETWEEN '2012-03-14' AND '2015-04-10')         
+``
+
 
 
 

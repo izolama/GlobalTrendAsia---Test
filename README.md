@@ -52,10 +52,17 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
               
        QUERY = INSERT INTO `kpi` (`id`, `id_pegawai`, `tanggal_review`) VALUES ('20', '2', '2016-04-12'),('30', '10', '2015-02-13'), 
                ('40', '22', '2010-10-12'),('50', '11', '2009-01-01'),('60', '12', '2009-03-03'),('70', '13', '2008-12-01'),
-               ('80', '1', '2003-04-12'),('90', '1', '2014-04-30')
+               ('80', '1', '2003-04-12'),('90', '1', '2014-04-30')      
+         
 ```    
         
-     
+     - 2 syntax query concat desc 
+             
+         ```javascript
+         SELECT CONCAT(nama_depan, nama_belakang) FROM pegawai ORDER by nama_belakang ASC ,nama_depan DESC
+         
+         (https://user-images.githubusercontent.com/55181621/147934973-2b79f74b-aa7c-461d-bcf2-22a5d7ae31dc.png)
+         ```
 
 
 

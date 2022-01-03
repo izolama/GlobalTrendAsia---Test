@@ -106,10 +106,14 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
 ```
 
 ## Section Logic 1
+# Prima 
 
 ![image](https://user-images.githubusercontent.com/55181621/147951849-8a88eb59-14ec-4ea7-9d2d-c423e973f61f.png)
 
 ## Section Logic 2
+# Fibonacci
+
+![image](https://user-images.githubusercontent.com/55181621/147952346-cb67352b-6044-4194-9372-1d005f495e71.png)
 
 
 ## Section Logic 3

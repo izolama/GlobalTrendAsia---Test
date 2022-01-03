@@ -44,6 +44,10 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
               id_pegawai (30),
               tanggal_review DATE
               )
+              
+       QUERY = INSERT INTO `kpi` (`id`, `id_pegawai`, `tanggal_review`) VALUES ('20', '2', '2016-04-12'),('30', '10', '2015-02-13'), 
+               ('40', '22', '2010-10-12'),('50', '11', '2009-01-01'),('60', '12', '2009-03-03'),('70', '13', '2008-12-01'),
+               ('80', '1', '2003-04-12'),('90', '1', '2014-04-30')
 ```    
         
      

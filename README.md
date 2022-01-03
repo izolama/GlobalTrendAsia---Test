@@ -77,7 +77,7 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
 ```javascript
          
          SELECT * FROM `pegawai` WHERE (tanggal_masuk BETWEEN '2012-03-14' AND '2015-04-10')         
-``
+```
 
 
 

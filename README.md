@@ -92,6 +92,19 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
          SELECT * FROM `pegawai` WHERE penghasilan >= 10000 and penghasilan <= 60000 order by penghasilan DESC       
 ```
 
+## Section query 5
+
+![image](https://user-images.githubusercontent.com/55181621/147946510-97edc064-de5c-4b4e-b898-4ff100bf0a9a.png)
+
+
+
+## syntax query 5
+
+```javascript
+         
+         SELECT * from `pegawai` ORDER BY penghasilan DESC LIMIT 1      
+```
+
 
 
 

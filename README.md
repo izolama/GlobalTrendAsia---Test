@@ -80,6 +80,18 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
 ```
 
 
+## Section query 4
+
+![image](https://user-images.githubusercontent.com/55181621/147941105-f42b063c-f456-4e65-b8be-2d73f1867dc3.png)
+
+
+## syntax query 4
+
+```javascript
+         
+         SELECT * FROM `pegawai` WHERE penghasilan >= 10000 and penghasilan <= 60000 order by penghasilan DESC       
+```
+
 
 
 

@@ -25,48 +25,29 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
 
 ![PinDetails](https://user-images.githubusercontent.com/55181621/147917065-db10471d-48a9-4e87-9251-33dcf8ad7abb.png)
 
+
 ## Section Query
 
-- 1. create table karyawan & table kpi                      |         create table table kpi         |
-     query = CREATE TABLE karyawan (                        |         query = CREATE TABLE kpi (     |
-              id INT ( 10 ) PRIMARY KEY,                    |         id int ( 10 ) PRIMARY KEY,     |
-              nama_depan VARCHAR ( 30 ),                    |         id_pegawai INT ( 30 ),         |
-              nama_belakang VARCHAR ( 30 ),                 |         tanggal_review DATE            |
-              tanggal_masuk DATE,                           |         )
-              tanggal_keluar DATE,                          |
-              penghasilan INT (100)                         |
-              )                                             |
- 
- - 2.  
-             
+- 1. create table karyawan     
+                                
+     query = CREATE TABLE karyawan (                              
+              id INT ( 10 ) PRIMARY KEY,                             
+              nama_depan VARCHAR ( 30 ),                   
+              nama_belakang VARCHAR ( 30 ),                 
+              tanggal_masuk DATE,                          
+              tanggal_keluar DATE,                        
+              penghasilan INT (100)                        
+              )      
+              
+ - 2. create table kPI
+   
+      QUERY = create table table kpi (
+              id INT (10) PRIMARY KEY,
+              id_pegawai (30),
+              tanggal_review DATE
+              )
+        
      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

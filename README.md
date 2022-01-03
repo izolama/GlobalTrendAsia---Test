@@ -35,7 +35,12 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
               PRIMARY KEY, nama_depan VARCHAR ( 30 ),
               nama_belakang VARCHAR ( 30 ), 
               tanggal_masuk DATE, tanggal_keluar DATE,
-              penghasilan INT (100) )      
+              penghasilan INT (100) )
+              
+      QUERY = INSERT INTO `pegawai` (`id`, `nama_depan`, `nama_belakang`, `tanggal_masuk`, `tanggal_keluar`, `penghasilan`) VALUES 
+              ('2', 'wawa', 'Bastian', '2010-02-12', 'null', '20000'), ('3', 'Pevita', 'Pierce', '2012-03-14', 'null', '30000'), 
+              ('4', 'janien', 'Wieghel', '2013-09-10', '2014-01-01', '20000'), ('5', 'Lucinta', 'Luna', '2013-09-10', 'null', '20000'), 
+              ('6', 'Nikita,', 'William', '2015-04-10', '2015-05-01', '60000')
               
  -2.  create table kPI
    

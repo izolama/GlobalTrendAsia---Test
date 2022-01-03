@@ -55,11 +55,11 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
                ('80', '1', '2003-04-12'),('90', '1', '2014-04-30')      
          
 ```    
-# table 
+# Section query 2
 
-![PinDetails]![image](https://user-images.githubusercontent.com/55181621/147935590-9856fb2d-cba8-456f-90e1-fe4672dec812.png)
+![image](https://user-images.githubusercontent.com/55181621/147935590-9856fb2d-cba8-456f-90e1-fe4672dec812.png)
 
-## syntax query concat desc 
+## syntax query 2
 
 
          ```javascript

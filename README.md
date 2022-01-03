@@ -26,7 +26,7 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
 ![PinDetails](https://user-images.githubusercontent.com/55181621/147917065-db10471d-48a9-4e87-9251-33dcf8ad7abb.png)
 
 
-## Section Query
+## Section Query 1
 
 ```javascript
  -1.  create table karyawan     
@@ -55,7 +55,7 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
                ('80', '1', '2003-04-12'),('90', '1', '2014-04-30')      
          
 ```    
-# Section query 2
+## Section query 2
 
 ![image](https://user-images.githubusercontent.com/55181621/147935590-9856fb2d-cba8-456f-90e1-fe4672dec812.png)
 

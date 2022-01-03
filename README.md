@@ -55,8 +55,9 @@ Using React, Tailwind & Sanity to build a Full Stack Social Media Application - 
                ('80', '1', '2003-04-12'),('90', '1', '2014-04-30')      
          
 ```    
-        
-     - 2 [image](https://user-images.githubusercontent.com/55181621/147935238-3bda7956-ad82-431a-ad98-3d8698ebfc51.png)
+        # table 
+         
+         (https://user-images.githubusercontent.com/55181621/147935238-3bda7956-ad82-431a-ad98-3d8698ebfc51.png)
 
      
          syntax query concat desc 
